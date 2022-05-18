@@ -736,7 +736,8 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     z-index: 3;
 }
 .main .logo.cursive{
-    font-family: 'Grand Hotel',cursive;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Grand Hotel', 'Roboto' ,cursive;
     font-size: 82px;
     color: #bdc3c7;
 }
@@ -792,7 +793,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     bottom: 20px;
     right: 0px;
     width: 100%;
-    color: #AAAAAA;
+    color: #bdc3c7;
     z-index: 4;
     text-align: center;
     margin-top: 50px;
