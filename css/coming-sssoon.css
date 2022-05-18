@@ -739,15 +739,15 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     font-family: 'Grand Hotel',cursive;
     font-size: 82px;
     color: #bdc3c7;
-    
 }
+
+
 .main .content{
     position: relative;
     z-index: 4;
 }
 .main .motto{
     min-height: 140px;
-
 }
 .main .motto, .main .subscribe .info-text{
     font-size: 28px;
@@ -755,8 +755,8 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     text-shadow: 0 1px 4px rgba(0, 0, 0, 0.33);
     text-align: center;
     margin-top: 50px;
-    
 }
+
 .main .subscribe .info-text{
     font-size: 18px;
     margin-bottom: 30px;
@@ -803,6 +803,14 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 .footer .heart{
     color: #FF3B30;
 }
+
+
+@media (max-width:400px){        
+ .footer{
+     font-size: 1.25rem;
+ }
+}
+
 
 @media (min-width:219px){        
     .main .subscribe .form-group{
